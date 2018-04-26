@@ -6,13 +6,20 @@ body {
 	text-align: center;
 }
 
+h1 {
+
+}
+h2{
+	font-style: italic;
+	
+}
+
 
 p {
-
+	border: 5px solid black;
 	text-align: justify;
 	color:black;
 	font-weight:bold;
-	padding: 70px 200px;
+	padding: 70px 250px;
  }
 
-	
